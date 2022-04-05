@@ -15,8 +15,8 @@ Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel
 ### Video vom Spiel
 
 ## Reflexion ✨
-Ich fand es gut,. Zuvor .
-Ich fand nicht so gut, . 
+Ich fand es gut, dass wir in der Gruppe gearbeitet haben, da es mir dir Grenzen und Möglichkeiten klar wurden. Zuvor haben wir in Gruppenarbeit gearbeitet, jedoch waren wir nicht wirklich von einander Abhängig.
+Ich fand nicht so gut, dass wir. 
 Als Verbesserung könnte man, .
 
 Am 26.11.2021 habe ich ein Portfolio gemacht, wo ich als Verbesserungsvorschlag hatte,
