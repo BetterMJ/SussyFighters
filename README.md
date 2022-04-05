@@ -8,6 +8,8 @@ Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel
 
 ## Inhalt 🧠
 ### Ein Spiel mit Unity
+Unity ist ein Programm, mitdem man Spiele sehr einfach mit C# programmieren kann. Um Unity zu installieren kann man einfach auf ihre Webseite gehen und die Schritte dort befolgen: https://unity.com/
+
 
 
 ### Code
