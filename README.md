@@ -10,7 +10,7 @@ Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel
 ### Ein Spiel mit Unity
 Unity ist ein Programm, mitdem man Spiele sehr einfach mit C# programmieren kann. Um Unity zu installieren kann man einfach auf ihre Webseite gehen und die Schritte dort befolgen: https://unity.com/
 
-
+Mit der Szene kann man verschiedene Fenster (Szenen) in einem Spiel machen, das ist wie, als würde ich bei einer Webseite auf eine Unterseite gehen, welche bei Unity dann einfach eine weitere Szene wäre. Eine Szene fügt man ein indem man, wenn man ein neues Spiel erstellt hat, zu den Assets geht, mit der rechten Maustaste darauf drückt und "Create" drückt und dann "Scene". Mit Doppel-Klick kann man diese öffnen.
 
 ### Code
 
@@ -22,7 +22,7 @@ Ich fand nicht so gut, dass wir nicht in der richtigen Reihenfolge gearbeitet ha
 Als Verbesserung könnte man zuerst sich mit den Hauptgrundlagen des Spiels beschäftigen und sich eine Vision machen zu was es braucht und was die Limite ist.
 
 Am 25.1.2022 hat Matteo ein Portfolio gemacht, wo er als Verbesserungsvorschlag hatte, dass man sich eine Mindmap mit XMind macht und seine Ideen somit sammelt, wir haben in unserem Falle mit einer einfachen Textdatei gearbeitet und haben so unsere Ideen gesammelt und sortiert.
-Wir haben das Gefühl, dass wir einige Zeit sparen konnten beim programmieren, da wir wussten wie und was man programmieren soll.
+Wir haben einige Zeit sparen können beim programmieren, da wir wussten wie und was man programmieren soll.
 
 ## Verifikation ✅
 Man lernt was was Unity ist im Inhalt und dann "Ein Spiel mit Unity" ganz oben. 
