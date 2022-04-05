@@ -12,6 +12,9 @@ Unity ist ein Programm, mitdem man Spiele sehr einfach mit C# programmieren kann
 
 Mit der Szene kann man verschiedene Fenster (Szenen) in einem Spiel machen, das ist wie, als würde ich bei einer Webseite auf eine Unterseite gehen, welche bei Unity dann einfach eine weitere Szene wäre. Eine Szene fügt man ein indem man, wenn man ein neues Spiel erstellt hat, zu den Assets geht, mit der rechten Maustaste darauf drückt und "Create" drückt und dann "Scene". Mit Doppel-Klick kann man diese öffnen.
 
+Nun zu den Buttons, man kann sie hinzufügen, indem man oben Links zum Fenster "Hierarchy" geht, Rechtsklick macht und "UI" auswählt und danach auf Button. Der Button hat die Eigenschaft, dass man bei Knopfdruck eine Funktion hinzufügen kann, zum Beispiel beim Code verlinkt: void StartFight(){...}
+Das macht, dass das Spiel mit der richtigen Szene startet.
+
 ### Code
 ```C#
 using System.Collections;
