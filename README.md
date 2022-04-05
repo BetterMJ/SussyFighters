@@ -91,7 +91,7 @@ public class CharSelection : MonoBehaviour
 ### Video vom Spiel
 [![](https://i.imgur.com/Es7ZCve.jpg)](https://youtu.be/7_sjSURV5s8)
 ## Reflexion ✨
-Ich fand es gut, dass wir in der Gruppe gearbeitet haben, da es mir dir Grenzen und Möglichkeiten klar wurden. Zuvor haben wir in Gruppenarbeit gearbeitet, jedoch waren wir nicht wirklich von einander Abhängig.
+Ich fand es gut, dass wir in der Gruppe gearbeitet haben, da uns die Grenzen und Möglichkeiten klar wurden. Zuvor haben wir in Gruppenarbeit gearbeitet, jedoch waren wir nicht wirklich voneinander Abhängig.
 Ich fand nicht so gut, dass wir nicht in der richtigen Reihenfolge gearbeitet haben, damit Meine ich, dass wir zuerst mit dem Design gearbeitet haben und erst nacher mit den Funktionen. Da wir uns nicht zuerst mit den Funktionen beschäftigt haben, haben wir zu viel Zeit mit dem Design verbraucht, wobei wir meist sogar zu viele Animationen hatten.  
 Als Verbesserung könnte man zuerst sich mit den Hauptgrundlagen des Spiels beschäftigen und sich eine Vision machen zu was es braucht und was die Limite ist.
 
