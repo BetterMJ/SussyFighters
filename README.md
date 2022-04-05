@@ -1,24 +1,18 @@
 # SussyFighters
 
 ## Aufgabenstellung
-Aus persönlichem Interesse, aber auch als Auftrag, habe ich ein Roboter auf "Robocode" programmieren. Diesen Roboter wurde in Einzelarbeit programmiert. Bei diesem Portfolio gehe ich mehr in Richtung wie alles funktioniert und wie ich meinen ersten Roboter programmiert habe.
-- Der Leser erfährt, was "Robocode" ist
-- Der Leser lernt, wie man ein Roboter kann programmieren
-- Der Leser lernt, was die Strategie meines Roboters ist
+Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel auf Unity programmiert. Wir haben dieses Projekt in der Gruppenarbeit gemacht. Bei diesem Portfolio gehen wir mehr in die Richtung, wie einzelne Aspekte des Programms funktionieren.
+- Der Leser erfährt, was Unity ist.
+- Der Leser lernt, wie man eine Szene macht.
+- Der Leser lernt, was Buttons sind und was man mit diesen machen kann.
 
 ## Inhalt 🧠
-### Robocode und ein Roboter
-Robocode ist ein Programm, wo sich Roboter auf einem Spielfeld bekämpfen können. Roboter kann man selber in Java programmieren, jedoch gibt es auch weitere Roboter im Netz, welche man brauchen kann.
-Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekommt Punkte, indem man anderen Robotern schaden macht, als längster überlebt und weitere kleinere Faktoren.
+### Ein Spiel mit Unity
 
-Ich habe meinen Bot (CatSlayer69) mit Java im Source-Editor programmiert. Man öffnet den Editor, indem man das Spiel startet, auf "Robot" geht und "Source Editor" auswählt.
-Nun kann man einen Roboter öffnen oder kreieren, es gibt APIs vom Hersteller zur Hilfestellung der Programmierung.
-
-Nach vielen Versionen habe ich die Strategie meines Roboters "Sway" genannt. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst. Als Zusatz habe ich auch eine Funktion gemacht, welche schaut, ob der Roboter in der Nähe eine Ecke ist oder in der Nähe eines Randes und sich dann davon wegbewegt.
 
 ### Code
 
-### Gif vom Spiel
+### Video vom Spiel
 
 ## Reflexion ✨
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen auszuprobieren.
