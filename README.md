@@ -1,7 +1,7 @@
 # SussyFighters
 
 ## Aufgabenstellung
-Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel auf Unity programmiert. Wir haben dieses Projekt in der Gruppenarbeit gemacht. Bei diesem Portfolio gehen wir mehr in die Richtung, wie einzelne Aspekte des Programms funktionieren.
+Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel auf Unity programmiert. Wir haben dieses Projekt in der Gruppenarbeit gemacht, wobei dieses das erste Gruppenportfolio ist. Bei diesem Portfolio gehen wir mehr in die Richtung, wie einzelne Aspekte des Programms funktionieren und wie man Unity gebraucht.
 - Der Leser erfährt, was Unity ist.
 - Der Leser lernt, wie man eine Szene macht.
 - Der Leser lernt, was Buttons sind und was man mit diesen machen kann.
@@ -10,9 +10,9 @@ Aus persönlichem Interesse, aber auch als Auftrag, haben wir unser erstes Spiel
 ### Ein Spiel mit Unity
 Unity ist ein Programm, mit dem man Spiele sehr einfach mit C# programmieren kann. Um Unity zu installieren, kann man einfach auf ihre Webseite gehen und die Schritte dort befolgen: https://unity.com/
 
-Mit der Szene kann man verschiedene Fenster (Szenen) in einem Spiel machen, das ist wie, als würde ich bei einer Webseite auf eine Unterseite gehen, welche bei Unity dann einfach eine weitere Szene wäre. Eine Szene fügt man ein, indem man, wenn man ein neues Spiel erstellt hat, zu den Assets geht, mit der rechten Maustaste darauf drückt und "Create" drückt und dann "Scene". Mit Doppelklick kann man diese öffnen.
+Mit der Szene kann man verschiedene Fenster (Szenen) in einem Spiel machen, das ist wie, als würde ich bei einer Webseite auf eine Unterseite gehen, welche bei Unity dann einfach eine weitere Szene wäre. Eine Szene fügt man ein, indem man, wenn man ein neues Spiel erstellt hat, zu den Assets geht, mit der rechten Maustaste darauf drückt und "Create" drückt und dann "Scene" auswählt. Mit Doppelklick auf die nun erstellte Datei kann man sie öffnen.
 
-Nun zu den Buttons, man kann sie hinzufügen, indem man oben Links zum Fenster "Hierarchy" geht, Rechtsklick macht und "UI" auswählt und danach auf Button. Der Button hat die Eigenschaft, dass man bei Knopfdruck eine Funktion hinzufügen kann, zum Beispiel beim Code verlinkt: void StartFight(){...}
+Nun zu den Buttons, man kann sie hinzufügen, indem man oben Links zum Fenster "Hierarchy" geht, Rechtsklick macht und "UI" auswählt und danach auf Button, nun ist der Button auf der Szene abgebildet. Der Button hat die Eigenschaft, dass man bei Knopfdruck eine Funktion hinzufügen kann, zum Beispiel beim Code verlinkt: void StartFight(){...}
 Das macht, dass das Spiel mit der richtigen Szene startet.
 
 ### Code
@@ -100,6 +100,6 @@ Wir haben einige Zeit sparen können beim programmieren, da wir wussten wie und 
 
 ## Verifikation ✅
 Man lernt was was Unity ist im Inhalt und dann "Ein Spiel mit Unity" ganz oben. 
-Man findet heraus, wie man eine Szene macht im Inhalt, Text und dann der Teil in der Mitte.
-Um über die Buttons herauszufinden, kann man zum Inhalt nochmal gehen, Text und dann der untere Teil.
+Man findet heraus, wie man eine Szene macht im Inhalt, "Ein Spiel mit Unity" und dann der Teil in der Mitte.
+Um über die Buttons herauszufinden, kann man zum Inhalt nochmal gehen, "Ein Spiel mit Unity" und dann der untere Teil.
 
